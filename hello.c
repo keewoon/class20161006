@@ -6,6 +6,6 @@ int main(void)
 {	
 	foo1();
 	foo2();
-	printf("I'm sorry to hear that\n");
+	printf("thank you~\n");
 	return 0;
 }
