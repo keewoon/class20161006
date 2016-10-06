@@ -2,6 +2,6 @@
 
 int foo1()
 {
-	printf("so difficult!\n");
+	printf("hahahahahaha\n");
 	return 0;
 }
